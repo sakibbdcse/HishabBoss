@@ -1,7 +1,9 @@
+import PrimaryLayout from "./layout/PrimaryLayout";
+
 function App() {
   return (
     <>
-      <div className="text-red-500">HishabBoss Frontend</div>
+      <PrimaryLayout />
     </>
   );
 }
